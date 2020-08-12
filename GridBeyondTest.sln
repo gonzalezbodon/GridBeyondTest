@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridBeyondTest", "GridBeyondTest\GridBeyondTest.csproj", "{02DD102B-D169-4417-A9BF-D33DFEF04F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridBeyondTest_Tests", "GridBeyondTest_Tests\GridBeyondTest_Tests.csproj", "{B2DC0AB4-67B1-4C89-9F6F-64FE611853A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DD102B-D169-4417-A9BF-D33DFEF04F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DD102B-D169-4417-A9BF-D33DFEF04F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DD102B-D169-4417-A9BF-D33DFEF04F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DD102B-D169-4417-A9BF-D33DFEF04F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DC0AB4-67B1-4C89-9F6F-64FE611853A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DC0AB4-67B1-4C89-9F6F-64FE611853A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DC0AB4-67B1-4C89-9F6F-64FE611853A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DC0AB4-67B1-4C89-9F6F-64FE611853A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761EAFC3-1961-46FD-9F9B-0F0C09ADB16D}
+	EndGlobalSection
+EndGlobal
