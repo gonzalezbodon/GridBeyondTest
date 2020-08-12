@@ -27,7 +27,7 @@ This project is a simple **ASP.NET MVC web application**. The main goal is to **
 * **Load and save data by packages**
 * **Web pages** and **API** implementation.
 * Views implemented with **Razor pages** using *HTML5*, *CSS3*, jQUERY, *AJAX* and *Javascript* (object and classes examples).
-
+* A little of **Unit tests**
 
 ## :file_folder: Directory Description
 
